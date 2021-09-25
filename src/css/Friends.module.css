@@ -1,0 +1,15 @@
+.friendItem img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.friends{
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    text-align: center;
+}
+.friendItem{
+    margin: 10px;
+}

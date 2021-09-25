@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(82, 127, 163);
+    grid-area: navbar;
+    width: 200px;
+    padding: 20px;
+    height: fit-content;
+}
+.item a{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-decoration: none;
+
+}
+.item a.active{
+    color: gold;
+}
